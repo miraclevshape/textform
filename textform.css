@@ -3,7 +3,9 @@
 }
 .col-10{
   font-size: 25px;
-  text-align: left;
+}
+.col-2{
+  margin-top: 10px;
 }
 hr{
   background-color: #dbf5ff;
@@ -14,6 +16,7 @@ hr{
 }
 .col-4{
   font-size:5px;
+  margin-bottom: 15px;
 }
 .col-8{
   margin-top: 10px;
