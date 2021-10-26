@@ -1,0 +1,17 @@
+.container{
+  margin-top: 10px;
+}
+.col-10{
+    font-size: 20px;
+  text-align: left;
+}
+hr{
+  background-color: blue;
+  height:2px;
+}
+.form-group{
+  width:60%;
+}
+.col4{
+  font-size:5px;
+}
